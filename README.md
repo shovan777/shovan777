@@ -1,8 +1,9 @@
 ### Hi there 👋
+See my projects at: https://shovan777.github.io/portfolio_website/
 
 <!--
 **shovan777/shovan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-See my projects at: https://shovan777.github.io/portfolio_website/
+
 
 Here are some ideas to get you started:
 
